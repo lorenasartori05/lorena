@@ -1,4 +1,10 @@
-header{
-    background-color: blueviolet;
-    color: aliceblue
+.cabecalho{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content:space-around ;
+}
+cabecalho-imagem_{
+    width: 20%;
+
 }
